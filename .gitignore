@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Large datasets (do not upload to GitHub)
+data/raw/
+data/processed/
