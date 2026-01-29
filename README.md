@@ -29,6 +29,12 @@ Unlike stock price prediction or purely accuracy-driven ML tasks, this project e
 
 Only information available **at loan approval time** is used to prevent data leakage.
 
+## Data Availability
+
+The raw LendingClub dataset and processed data files are not included in this repository due to GitHub file size constraints.  
+The dataset can be downloaded from Kaggle and the processed data can be reproduced by running the feature engineering notebook.
+
+
 ---
 
 ## Project Structure
